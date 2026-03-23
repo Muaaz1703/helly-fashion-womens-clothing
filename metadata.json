@@ -1,0 +1,7 @@
+{
+  "name": "Helly Fashion - Women's Clothing Store",
+  "description": "Premium women's fashion store in Surat, Gujarat. Specializing in elegant ethnic and modern wear.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
