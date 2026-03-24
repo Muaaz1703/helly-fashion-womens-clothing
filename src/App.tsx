@@ -899,8 +899,8 @@ const PRODUCTS: Product[] = [
     price: 4500,
     description: "Experience the timeless elegance of our Silk Banarasi Saree, hand-woven with intricate gold zari work. Perfect for weddings and grand celebrations.",
     images: [
-      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=800&auto=format&fit=crop"
+      "img/1.png",
+      "img/1.png"
     ],
     color: "bg-helly-red",
     reviews: [
@@ -915,8 +915,8 @@ const PRODUCTS: Product[] = [
     price: 1800,
     description: "A chic and comfortable cotton kurti featuring delicate hand embroidery. Ideal for office wear or casual outings.",
     images: [
-      "https://images.unsplash.com/photo-1589156280159-27698a70f29e?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1621330396173-e41b1cafd17f?q=80&w=800&auto=format&fit=crop"
+       "img/2.png",
+      "img/2.png"
     ],
     color: "bg-helly-yellow",
     reviews: [
@@ -930,8 +930,8 @@ const PRODUCTS: Product[] = [
     price: 2200,
     description: "A modern western dress with a traditional floral print. Features a flattering silhouette and breathable fabric.",
     images: [
-      "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=800&auto=format&fit=crop"
+       "img/3.png",
+      "img/3.png"
     ],
     color: "bg-helly-blue",
     reviews: []
@@ -943,8 +943,8 @@ const PRODUCTS: Product[] = [
     price: 1200,
     description: "Lightweight and elegant cotton saree with vibrant block prints. Perfect for the summer season.",
     images: [
-      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1625733143263-1db30ed80f3e?q=80&w=800&auto=format&fit=crop"
+       "img/4.png",
+      "img/4.png"
     ],
     color: "bg-helly-orange",
     reviews: [
@@ -958,8 +958,8 @@ const PRODUCTS: Product[] = [
     price: 2500,
     description: "Elegant Anarkali style kurti in soft rayon fabric. Features a beautiful flare and gold foil print details.",
     images: [
-      "https://images.unsplash.com/photo-1609357940147-a7c598a49218?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1595967783875-c371f35d8049?q=80&w=800&auto=format&fit=crop"
+        "img/5.png",
+      "img/5.png"
     ],
     color: "bg-helly-pink",
     reviews: []
@@ -971,8 +971,8 @@ const PRODUCTS: Product[] = [
     price: 1500,
     description: "A vibrant boho-style maxi skirt with a comfortable elastic waistband. Perfect for a relaxed, stylish look.",
     images: [
-      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1509631179647-0177331693ae?q=80&w=800&auto=format&fit=crop"
+      "img/6.png",
+      "img/6.png"
     ],
     color: "bg-helly-blue",
     reviews: [
