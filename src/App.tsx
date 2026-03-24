@@ -899,8 +899,8 @@ const PRODUCTS: Product[] = [
     price: 4500,
     description: "Experience the timeless elegance of our Silk Banarasi Saree, hand-woven with intricate gold zari work. Perfect for weddings and grand celebrations.",
     images: [
-      "img/1.png",
-      "img/1.png"
+      "https://img.freepik.com/premium-photo/elegant-red-silk-saree-with-green-blouse-gold-jewelry_204996-2374.jpg?w=1480",
+      "https://img.freepik.com/premium-photo/elegant-red-silk-saree-with-green-blouse-gold-jewelry_204996-2374.jpg?w=1480"
     ],
     color: "bg-helly-red",
     reviews: [
