@@ -915,8 +915,8 @@ const PRODUCTS: Product[] = [
     price: 1800,
     description: "A chic and comfortable cotton kurti featuring delicate hand embroidery. Ideal for office wear or casual outings.",
     images: [
-       "img/2.png",
-      "img/2.png"
+       "https://img.freepik.com/premium-photo/pretty-girl-wearing-black-red-desi-dress-posing-front-plants-fashion-shoot_658768-724.jpg?w=1480",
+      "https://img.freepik.com/premium-photo/pretty-girl-wearing-black-red-desi-dress-posing-front-plants-fashion-shoot_658768-724.jpg?w=1480"
     ],
     color: "bg-helly-yellow",
     reviews: [
@@ -930,8 +930,8 @@ const PRODUCTS: Product[] = [
     price: 2200,
     description: "A modern western dress with a traditional floral print. Features a flattering silhouette and breathable fabric.",
     images: [
-       "img/3.png",
-      "img/3.png"
+       "https://img.freepik.com/free-photo/attractive-young-woman-with-wreath-head-bouquet-flowers_23-2148079351.jpg?t=st=1774331424~exp=1774335024~hmac=006a16e4ba994d52f24ec924e5e002cdbe74e0dca695909dbc24423781da2adb&w=1480",
+      "https://img.freepik.com/free-photo/attractive-young-woman-with-wreath-head-bouquet-flowers_23-2148079351.jpg?t=st=1774331424~exp=1774335024~hmac=006a16e4ba994d52f24ec924e5e002cdbe74e0dca695909dbc24423781da2adb&w=1480"
     ],
     color: "bg-helly-blue",
     reviews: []
@@ -943,8 +943,8 @@ const PRODUCTS: Product[] = [
     price: 1200,
     description: "Lightweight and elegant cotton saree with vibrant block prints. Perfect for the summer season.",
     images: [
-       "img/4.png",
-      "img/4.png"
+       "https://img.freepik.com/premium-photo/attractive-girl-showing-her-floral-kurta-pajama-dupatta-mountain-hills-fashion-shoot_658768-356.jpg?w=1480",
+      "https://img.freepik.com/premium-photo/attractive-girl-showing-her-floral-kurta-pajama-dupatta-mountain-hills-fashion-shoot_658768-356.jpg?w=1480"
     ],
     color: "bg-helly-orange",
     reviews: [
@@ -958,21 +958,21 @@ const PRODUCTS: Product[] = [
     price: 2500,
     description: "Elegant Anarkali style kurti in soft rayon fabric. Features a beautiful flare and gold foil print details.",
     images: [
-        "img/5.png",
-      "img/5.png"
+        "https://img.freepik.com/premium-photo/beautiful-young-girl-posing-with-attitude-photoshoot-wearing-green-dress_658768-81.jpg?w=1480",
+      "https://img.freepik.com/premium-photo/beautiful-young-girl-posing-with-attitude-photoshoot-wearing-green-dress_658768-81.jpg?w=1480"
     ],
     color: "bg-helly-pink",
     reviews: []
   },
   {
     id: 6,
-    title: "Boho Maxi Skirt",
+    title: "Ladies Lehenga Choli",
     category: "Western Wear",
     price: 1500,
     description: "A vibrant boho-style maxi skirt with a comfortable elastic waistband. Perfect for a relaxed, stylish look.",
     images: [
-      "img/6.png",
-      "img/6.png"
+      "https://5.imimg.com/data5/SELLER/Default/2024/3/403504027/CF/WT/JP/106985265/helly-fashion-surat-20240323-0004.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2024/3/403504027/CF/WT/JP/106985265/helly-fashion-surat-20240323-0004.jpg"
     ],
     color: "bg-helly-blue",
     reviews: [
